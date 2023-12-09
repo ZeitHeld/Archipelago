@@ -60,6 +60,7 @@ class FactorioWeb(WebWorld):
         "setup/en",
         ["Berserker, Farrak Kilhn"]
     )
+    
     tutorials = [setup_en]
 
 
